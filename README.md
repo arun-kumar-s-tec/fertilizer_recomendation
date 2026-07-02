@@ -6,7 +6,7 @@ The **Fertilizer Recommendation System** is a machine learning web application t
 
 This system aims to assist farmers and agricultural professionals in making data-driven fertilizer decisions, helping improve crop productivity and optimize fertilizer usage.
 
-Live Working : Click Here()
+
 ---
 
 ## 🚀 Features
@@ -17,6 +17,8 @@ Live Working : Click Here()
 * Performs automatic encoding of crop names and fertilizer labels.
 * Supports real-time predictions.
 * Model serialization using Pickle/Joblib for deployment.
+
+  Live Working : Click Here(https://fertilizerrecomendationdemo.streamlit.app/)
 
 ---
 
